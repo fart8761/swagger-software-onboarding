@@ -1,0 +1,5 @@
+interface:
+  display_name: "Swagger Software Onboarding"
+  short_description: "Map a product and every API without calling business endpoints"
+  default_prompt: "Use $swagger-software-onboarding to analyze this software and its Swagger/OpenAPI documentation without calling business APIs."
+
