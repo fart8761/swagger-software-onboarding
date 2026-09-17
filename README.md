@@ -83,4 +83,3 @@ The skill instructions are in `SKILL.md`. The detailed output contract is in `re
 ## License
 
 Released under the [MIT License](LICENSE).
-
