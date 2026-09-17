@@ -103,4 +103,3 @@ Before delivery, verify:
 - state-changing GET candidates are listed separately;
 - no business endpoint was called during phase one;
 - the user can find the exhaustive inventory without reading the narrative report line by line.
-
