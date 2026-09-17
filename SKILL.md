@@ -146,4 +146,3 @@ Do not recommend real endpoint testing until the unresolved authentication, envi
 ## Phase-two boundary
 
 Real API testing is a separate task. Before any later test, define the environment, read-only account, approved endpoints, credentials handling, expected response, rate limits, and cleanup requirements. Obtain explicit authorization before any state-changing request.
-
